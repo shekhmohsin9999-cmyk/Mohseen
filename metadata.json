@@ -1,0 +1,6 @@
+{
+  "name": "PAY ALERT",
+  "description": "Professional UPI merchant payment voice alert and soundbox application for Indian shopkeepers with multi-language voice announcements, real-time audio notifications for GPay, PhonePe, and Paytm, daily transaction summaries, and license activation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
